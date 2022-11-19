@@ -2,7 +2,7 @@
 - 👀 I’m interested in engineering
 - 🌱 Mechatronical Engineer Student
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Certificate_C-9GADWF2YVM.pdf
+- 📫 How to reach me ... 
 
 <!---
 Adan4lva/Adan4lva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
