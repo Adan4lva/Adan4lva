@@ -16,7 +16,7 @@ CSWA Certificate in Mechanical Design
 [![Solid](https://img.shields.io/badge/CSWA-Solid%20Works-red)](https://github.com/Adan4lva/Adan4lva/blob/main/Certificate_C-9GADWF2YVM.pdf)
 
 Take a look at my CV  
-[![CV](https://img.shields.io/badge/CV-Alvarez%20A-blue)](https://github.com/Adan4lva/Adan4lva/blob/main/Curriculum_2022_English.pdf)
+[![CV](https://img.shields.io/badge/CV-Alvarez%20A-blue)](https://github.com/Adan4lva/Adan4lva/blob/main/CV_2022_AlvarezA.pdf)
 
 <div align="center">
 <i>Contact:</i><br>
