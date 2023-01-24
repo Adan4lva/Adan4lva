@@ -22,7 +22,7 @@ CSWP Certificate in Mechanical Design <br>
 CSWP Certificate in Drawing Tools <br>
 [![Solid](https://img.shields.io/badge/CSWP-Solid%20Works-red)](https://github.com/Adan4lva/Adan4lva/blob/main/Certificate_C-UWH5KPN9M2%20Professional%20Drawings.pdf)<br>
 
-
+<br><br>
 
 Take a look at my CV  
 [![CV](https://img.shields.io/badge/CV-Alvarez%20A-blue)](https://github.com/Adan4lva/Adan4lva/blob/main/CV_2022_AlvarezA.pdf)
