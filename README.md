@@ -7,7 +7,6 @@
 👨‍💻 Courrently working as CAD designer  [![Solid](https://img.shields.io/badge/e.g.-Assemblies-blue)](https://github.com/Adan4lva/Solidworks-Assemblies)<br>
 
 
-https://img.shields.io/badge/e.g.-Assemblies-blue
 
 
 <br><i>Check this out... 👇</i><br><br>
