@@ -14,16 +14,13 @@
 
 
 CSWA Certificate
-
 [![Solid](https://img.shields.io/badge/CSWA-Solid%20Works-red)](https://github.com/Adan4lva/Adan4lva/blob/main/Certificate_C-9GADWF2YVM.pdf)<br>
 
 CSWP Certificate in Mechanical Design
-
 [![Solid](https://img.shields.io/badge/CSWP-Solid%20Works-red)](https://github.com/Adan4lva/Adan4lva/blob/main/Certificate_C-SK9CVRUG26%20Professional%20Mechanical%20Design.pdf)<br>
 
 CSWP Certificate in Drawing Tools
-
-[![Solid](https://img.shields.io/badge/CSWP-Solid%20Works-red)](https://github.com/Adan4lva/Adan4lva/blob/main/Certificate_C-UWH5KPN9M2%20Professional%20Drawings.pdf)  
+[![Solid](https://img.shields.io/badge/CSWP-Solid%20Works-red)](https://github.com/Adan4lva/Adan4lva/blob/main/Certificate_C-UWH5KPN9M2%20Professional%20Drawings.pdf)<br>
 
 Take a look at my CV  
 [![CV](https://img.shields.io/badge/CV-Alvarez%20A-blue)](https://github.com/Adan4lva/Adan4lva/blob/main/CV_2022_AlvarezA.pdf)
