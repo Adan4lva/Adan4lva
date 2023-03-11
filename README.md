@@ -24,7 +24,7 @@ CSWP Certificate in Drawing Tools <br>
 <br><br>
 
 Take a look at my CV  
-[![CV](https://img.shields.io/badge/CV-Alvarez%20A-blue)](https://github.com/Adan4lva/Adan4lva/blob/main/CV_2022_AlvarezA.pdf)
+[![CV](https://img.shields.io/badge/CV-Alvarez%20A-blue)](https://github.com/Adan4lva/Adan4lva/blob/main/CV_2023_AlvarezA..pdf)
 
 <div align="center">
 <i>Contact:</i><br>
